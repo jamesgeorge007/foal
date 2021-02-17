@@ -48,7 +48,7 @@
     "mongoose": "^5.4.9"
   },
   "devDependencies": {
-    "@types/mocha": "^2.2.43",
+    "@types/mocha": "^8.2.1",
     "@types/node": "^10.5.6",
     "copy": "^0.3.2",
     "mocha": "^5.2.0",

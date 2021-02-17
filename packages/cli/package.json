@@ -55,7 +55,7 @@
     "commander": "^2.15.1"
   },
   "devDependencies": {
-    "@types/mocha": "^5.2.0",
+    "@types/mocha": "^8.2.1",
     "@types/node": "^10.1.2",
     "copyfiles": "^2.0.0",
     "mocha": "^5.2.0",

@@ -40,7 +40,7 @@
     "lib/"
   ],
   "devDependencies": {
-    "@types/mocha": "^2.2.43",
+    "@types/mocha": "^8.2.1",
     "@types/node": "^10.5.6",
     "formidable": "^1.2.1",
     "mocha": "^5.2.0",
